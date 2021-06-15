@@ -1,5 +1,5 @@
 # Student-Grade-Calculator-JavaScript
-Student Grade Calculator  
+
 Each student has to enter respective subject marks. 
 1. Find Total? 
 2. 2. Find Percentage? 
